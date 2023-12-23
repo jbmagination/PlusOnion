@@ -4,7 +4,8 @@ updates:
     directory: "/scripts"
     schedule:
       interval: "weekly"
-    allow: direct
+    allow: 
+      - dependency-type: direct
     assignees:
       - "jbmagination"
     commit-message:
@@ -19,13 +20,13 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-    allow: direct
+    allow: 
+      - dependency-type: direct
     assignees:
       - "jbmagination"
     commit-message:
       prefix: 'fix(gh): '
       include: 'scope'
-    versioning-strategy: auto
     labels:
       - "fix"
       - "gh"
