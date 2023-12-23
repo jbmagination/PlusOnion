@@ -1,0 +1,38 @@
+[Adblock Plus 2.0]
+! Name: PlusOnion for EasyList Cookie List
+! Homepage: https://github.com/jbmagination/PlusOnion
+! Checksum: NDqez5Nbk4wGGbKXOvG3Rw
+!
+! For use with EasyList Cookie List
+! https://easylist.to
+! https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+!
+! PlusOnion is not affiliated with EasyList and is not
+! affiliated with The Tor Project, Inc. PlusOnion is 
+! produced independently from the Tor® anonymity software 
+! and carries no guarantee from The Tor Project about 
+! quality, suitability or anything else.
+facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion#@#div[data-testid="cookie-policy-banner"]
+search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion###usage-metrics-notice
+reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##._3q-XSJ2vokDQrvdG6mR__k
+reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##.infobar-toaster-container
+nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion##.pz-hide-newsreader
+reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##[reddit-cookie-banner]
+facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##body:not([style^="margin-bottom"]) div[data-testid="cookie-policy-banner"]
+nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion##div[class^="MX_COMPLY_GDPR_COMPLIANCE_"]
+reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##div[style*="--Toaster-indicatorColor"]
+redditdotzhmh3mao6r5i2j7speppwqkizwo7vksy3mbz5iz7rlhocyd.onion,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##shreddit-async-loader[bundlename="reddit_cookie_banner"]
+reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##shreddit-cookie-banner
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion###react-root > div > div > .rn-gvpnoh
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##[data-reactroot] > [class] + [class]:last-child
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##.css-1dbjc4n.r-12vffkv > .r-12vffkv > .css-1dbjc4n[data-testid="BottomBar"] > .css-1dbjc4n.r-1awozwy.r-1sw30gj.r-15ce4ve
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##.r-13qz1uu.r-1f1sjgu.r-ymttw5.r-1d7fvdj.r-18u37iz.r-15ce4ve.r-1sw30gj.r-1awozwy.css-1dbjc4n
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##.r-13qz1uu.r-1f1sjgu.r-ymttw5.r-1d7fvdj.r-18u37iz.r-9hvr93.r-1m3jxhj.r-1awozwy.css-1dbjc4n
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##.r-13qz1uu.r-tvv088.r-d9fdf6.r-1d7fvdj.r-18u37iz.r-1upvrn0.r-1m3jxhj.r-1awozwy.css-1dbjc4n
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##.r-13qz1uu.r-tvv088.r-d9fdf6.r-1d7fvdj.r-18u37iz.r-qo02w8.r-1m3jxhj.r-1awozwy.css-1dbjc4n
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##.rn-gvpnoh.rn-eps6nq.rn-13qz1uu
+reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion###eu-cookie-policy
+!#if ext_ublock
+nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion###complianceOverlay
+nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion##body:style(overflow: auto !important;)
+!#endif

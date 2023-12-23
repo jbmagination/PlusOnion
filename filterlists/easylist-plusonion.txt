@@ -1,0 +1,39 @@
+[Adblock Plus 2.0]
+! Name: PlusOnion for EasyList
+! Homepage: https://github.com/jbmagination/PlusOnion
+! Checksum: rZQxT1pvZniPrJg/eZ6r7g
+!
+! For use with EasyList
+! https://easylist.to
+! https://easylist.to/easylist/easylist.txt
+!
+! PlusOnion is not affiliated with EasyList and is not
+! affiliated with The Tor Project, Inc. PlusOnion is 
+! produced independently from the Tor® anonymity software 
+! and carries no guarantee from The Tor Project about 
+! quality, suitability or anything else.
+@@||facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/ads/profile/$~third-party,xmlhttprequest
+@@||mtouch.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/ads/api/preview/$domain=business.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+@@||pbs.twitterhbmit57bzbcjnujedrn7uk73geo4ackio4lxdj6t7w6f4zsid.onion/ad_img/$image,xmlhttprequest
+@@||reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion^$generichide
+@@||ads-api.twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion^$domain=ads.twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion|analytics.twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion
+@@||ads.twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion^$domain=ads.twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion|analytics.twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion
+@@||ads.twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion^$popup
+://ads.$~image,domain=~ads.twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion
+||facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/network_ads_common
+p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion##.bb-ad
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##.promoted-account
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##.promotion
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##.stream-item-group-start[label="promoted"]
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##a[href*="src=promoted_trend_click"]
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##a[href*="src=promoted_trend_click"] + div
+reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##div[data-before-content="advertisement"]
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[data-testid="cellInnerDiv"] > div > div[class] > div[class][data-testid="placementTracking"]
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#.tweet:-abp-has(.promo)
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#article[data-testid="tweet"]:-abp-has(path[d$="10H8.996V8h7v7z"])
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#div[data-testid="eventHero"]:-abp-has(path[d$="10H8.996V8h7v7z"])
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#div[data-testid="placementTracking"]:-abp-has(div[data-testid$="-impression-pixel"])
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#div[data-testid="trend"]:-abp-has(path[d$="10H8.996V8h7v7z"])
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#div[data-testid="UserCell"]:-abp-has(path[d$="10H8.996V8h7v7z"])
+twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสมพนธ|परचरत|বজঞপত|تشہیر شدہ|مروج|تبلیغی|מקודם/)
+||facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/audiencenetwork/$third-party
