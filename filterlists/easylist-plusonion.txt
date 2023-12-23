@@ -1,7 +1,8 @@
 [Adblock Plus 2.0]
-! Name: PlusOnion for EasyList
+! Title: PlusOnion for EasyList
 ! Homepage: https://github.com/jbmagination/PlusOnion
-! Checksum: rZQxT1pvZniPrJg/eZ6r7g
+! Checksum: FFIRjGsfDN1p8aq755LO8w
+! Version: 2023.12.23.0
 !
 ! For use with EasyList
 ! https://easylist.to

@@ -1,7 +1,8 @@
 [Adblock Plus 2.0]
-! Name: PlusOnion for EasyPrivacy
+! Title: PlusOnion for EasyPrivacy
 ! Homepage: https://github.com/jbmagination/PlusOnion
-! Checksum: /tddD5dt4vKCJbuLenBKqQ
+! Checksum: H6N6NCEXlonRfFhT0WGG+w
+! Version: 2023.12.23.0
 !
 ! For use with EasyPrivacy
 ! https://easylist.to

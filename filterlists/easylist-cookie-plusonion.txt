@@ -1,7 +1,8 @@
 [Adblock Plus 2.0]
-! Name: PlusOnion for EasyList Cookie List
+! Title: PlusOnion for EasyList Cookie List
 ! Homepage: https://github.com/jbmagination/PlusOnion
-! Checksum: NDqez5Nbk4wGGbKXOvG3Rw
+! Checksum: GaFfgVjRx2v8jv0XYNa1pg
+! Version: 2023.12.23.0
 !
 ! For use with EasyList Cookie List
 ! https://easylist.to
