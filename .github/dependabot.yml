@@ -4,7 +4,29 @@ updates:
     directory: "/scripts"
     schedule:
       interval: "weekly"
+    allow: direct
+    assignees:
+      - "jbmagination"
+    commit-message:
+      prefix: 'fix(scripts): '
+      include: 'scope'
+    labels:
+      - "fix"
+      - "scripts"
+      - "dependencies"
+    versioning-strategy: auto
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "weekly"
+    allow: direct
+    assignees:
+      - "jbmagination"
+    commit-message:
+      prefix: 'fix(gh): '
+      include: 'scope'
+    versioning-strategy: auto
+    labels:
+      - "fix"
+      - "gh"
+      - "dependencies"
